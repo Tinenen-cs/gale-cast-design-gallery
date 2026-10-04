@@ -20,4 +20,4 @@ How to use it
 The real website
   https://gale-cast.vercel.app
 
-Captured: October 4, 2026
+Captured: October 5, 2026
