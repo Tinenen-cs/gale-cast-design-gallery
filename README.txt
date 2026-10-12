@@ -3,8 +3,10 @@ GALE-CAST DESIGN GALLERY
 
 What this is
   A picture gallery of the GALE-CAST website's front-end design.
-  It is NOT the working website. Every image is a screenshot and the
-  numbers shown are sample data, not real forecasts.
+  It is NOT the working website. Every image is a screenshot. Whole
+  pages and close-ups show the real forecast at capture time (October 13,
+  2026); the alert pop-ups and the High, Moderate, calm, loading and
+  error states use sample data.
 
 How to open it
   1. Keep this folder together: index.html and the "images" folder must
