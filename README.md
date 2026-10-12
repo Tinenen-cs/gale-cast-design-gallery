@@ -10,3 +10,5 @@ Shows the current design (live since October 13, 2026), following the order of t
 Captured October 13, 2026.
 
 Latest local review: refreshed all 36 whole-page screenshots (six dimensions, both themes), with Back to top visible in the footer. Verified the button works on Home, Public Readiness and About. The phone chart and Top 3 panels are expanded for capture. Updated four loading/error screenshots after the no-saved-data skeleton fix. New captures show the local build awaiting deployment. Screenshot-only styling reveals the footer button while retaining the sticky header at the top; the working website is unchanged by capture styling.
+
+Full-page footer audit: all 46 complete-page images include Back to top. This covers the 36 standard page/device/theme views, six High/Moderate/Low sample forecast-day views, and four loading/error views. Re-captured the six forecast-day views and verified the footer button works before capturing.
