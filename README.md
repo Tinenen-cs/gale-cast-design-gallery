@@ -57,3 +57,8 @@ Updated desktop and phone full-page samples so Today matches the supplied Manila
 ### Additional Manila High / Pasay Moderate variant
 
 Added six images under `#thesis-manila-pasay-alerts`: initial and expanded alerts plus matching notification illustrations for desktop and phone. Manila is High at 74.0 km/h (Sangley Point), Pasay is Moderate at 50.3 km/h (NAIA), matching the full-page sample's October 16 scenario. Both named pins and both city outlines were verified inside the alert map. Manila uses the website's 16 inline district geometries, preloaded into its existing boundary cache for capture; Caloocan is excluded. These are clearly identified thesis illustrations, not real warnings or delivered notifications. Existing gallery images and production source were not changed.
+
+
+### Matching notification-card close-ups
+
+Added Android and Windows notification-only crops for the Manila High (74.0 km/h) / Pasay Moderate (50.3 km/h) variant. Text was checked against the paired alert. Gallery captions continue to identify these as illustrations.
