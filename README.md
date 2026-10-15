@@ -72,3 +72,8 @@ Updated all eight alert and notification images to the illustrative forecast dat
 ### Timing correction ? October 16, 2026
 
 Recaptured all eight Manila High / Pasay Moderate alert and notification illustrations. The scenario forecast date remains Thursday, October 15, 2026, and the Android clock now shows 16:00 (4:00 PM Philippine time), matching the reference update time. Removed the unsupported midnight arrival-time assertion: daily forecasts do not specify an exact wind-arrival hour. Manila?s 24-hour and Pasay?s 36-hour values are reference warning lead times, not countdowns. See [PAGASA?s Tropical Cyclone Wind Signal guide](https://pagasa.dost.gov.ph/learning-tools/tropical-cyclone-wind-signal). These are thesis illustrations, not real warnings or delivered notifications. Production application code is unchanged.
+
+
+### Paper-ready figures and restored High-risk page ? October 16, 2026
+
+Added captioned PNGs for Figure 4.1 Homepage, 4.2 3-Day Forecast Trend, 4.3 Spatial Hazard Mapping and District Selection Interface, 4.4 Public Readiness, 4.5 About, 4.6 Warning pop-up, and 4.7 Notifications. Restored High-risk Today, October 15, 2026 at 4:00 PM Philippine time, on desktop and phone full-page captures with Back to top. Manila is High at 74.0 km/h, Pasay City Moderate at 50.3 km/h; alert and notification dates/locations/values match. The popup keeps its original layout. Removed the duplicate Additional thesis variant section as requested. The paper ZIP includes seven captioned figures, both full pages and capture metadata. Scenarios remain illustrations, not actual warnings or delivered notifications. Production code is unchanged.
