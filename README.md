@@ -52,3 +52,8 @@ The five visible desktop trend cards now show Low (24.0), Moderate (51.0), High 
 ### Manila Today reference and native shorter trails
 
 Updated desktop and phone full-page samples so Today matches the supplied Manila reference: Low, 11.0 km/h W, 1008.4 hPa (drop 1.5), rainfall 0.8 mm, humidity 84.0%. Tomorrow carries the High sample at 74.0 km/h with Within 24 hrs; Yesterday is Moderate at 51.0 with Within 36 hrs. The five visible desktop cards still contain one High, one Moderate and three Low. Today's three station winds are Low (9, 11 and 7 km/h), so the native map renderer naturally produces shorter green trails. The native 16-point trail setting and production code remain unchanged. Measured maximum trail lengths at capture: about 24.5 CSS px desktop and 20.4 CSS px phone. Footer and Back to top remain visible. These are illustrative thesis screenshots, not current forecasts.
+
+
+### Additional Manila High / Pasay Moderate variant
+
+Added six images under `#thesis-manila-pasay-alerts`: initial and expanded alerts plus matching notification illustrations for desktop and phone. Manila is High at 74.0 km/h (Sangley Point), Pasay is Moderate at 50.3 km/h (NAIA), matching the full-page sample's October 16 scenario. Both named pins and both city outlines were verified inside the alert map. Manila uses the website's 16 inline district geometries, preloaded into its existing boundary cache for capture; Caloocan is excluded. These are clearly identified thesis illustrations, not real warnings or delivered notifications. Existing gallery images and production source were not changed.

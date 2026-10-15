@@ -1,0 +1,125 @@
+{
+  "purpose": "Additional illustrative thesis variant; not an actual forecast or delivered push.",
+  "forecastDate": "2026-10-16",
+  "manilaBoundarySource": "Existing inline website district polygons, excluding Caloocan; preloaded for screenshot only. Production source unchanged.",
+  "captures": [
+    {
+      "device": "desktop",
+      "width": 1366,
+      "height": 900,
+      "pixelRatio": 1,
+      "cities": [
+        {
+          "name": "Manila",
+          "lat": 14.5995,
+          "lon": 120.9842,
+          "risk_level": "High",
+          "wind_speed_kmh": 74,
+          "wind_direction": "SW",
+          "rainfall": 38.2,
+          "humidity": 88,
+          "pressure_drop": 6.8
+        },
+        {
+          "name": "Pasay City",
+          "lat": 14.5378,
+          "lon": 121.0014,
+          "risk_level": "Moderate",
+          "wind_speed_kmh": 50.3,
+          "wind_direction": "SW",
+          "rainfall": 22,
+          "humidity": 86,
+          "pressure_drop": 3.4
+        }
+      ],
+      "date": "2026-10-16",
+      "payload": {
+        "title": "High and Moderate Gale Warning Tomorrow: October 16, 2026",
+        "body": "Affected: Manila (74.0 km/h), Pasay City (50.3 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+      },
+      "stationReferences": {
+        "Manila": "Sangley Point",
+        "Pasay City": "NAIA"
+      },
+      "check": {
+        "title": "High gale risk tomorrow in Manila",
+        "badge": "High and Moderate Gale Warning",
+        "testNoteHidden": true,
+        "markers": [
+          {
+            "text": "Manila",
+            "compact": false,
+            "inside": true
+          },
+          {
+            "text": "Pasay City",
+            "compact": false,
+            "inside": true
+          }
+        ],
+        "manilaDistricts": 16,
+        "polygons": 2,
+        "overflow": false
+      }
+    },
+    {
+      "device": "phone",
+      "width": 390,
+      "height": 844,
+      "pixelRatio": 1,
+      "cities": [
+        {
+          "name": "Manila",
+          "lat": 14.5995,
+          "lon": 120.9842,
+          "risk_level": "High",
+          "wind_speed_kmh": 74,
+          "wind_direction": "SW",
+          "rainfall": 38.2,
+          "humidity": 88,
+          "pressure_drop": 6.8
+        },
+        {
+          "name": "Pasay City",
+          "lat": 14.5378,
+          "lon": 121.0014,
+          "risk_level": "Moderate",
+          "wind_speed_kmh": 50.3,
+          "wind_direction": "SW",
+          "rainfall": 22,
+          "humidity": 86,
+          "pressure_drop": 3.4
+        }
+      ],
+      "date": "2026-10-16",
+      "payload": {
+        "title": "High and Moderate Gale Warning Tomorrow: October 16, 2026",
+        "body": "Affected: Manila (74.0 km/h), Pasay City (50.3 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+      },
+      "stationReferences": {
+        "Manila": "Sangley Point",
+        "Pasay City": "NAIA"
+      },
+      "check": {
+        "title": "High gale risk tomorrow in Manila",
+        "badge": "High and Moderate Gale Warning",
+        "testNoteHidden": true,
+        "markers": [
+          {
+            "text": "Manila",
+            "compact": false,
+            "inside": true
+          },
+          {
+            "text": "Pasay City",
+            "compact": false,
+            "inside": true
+          }
+        ],
+        "manilaDistricts": 16,
+        "polygons": 2,
+        "overflow": false
+      }
+    }
+  ]
+}
