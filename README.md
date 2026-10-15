@@ -47,3 +47,8 @@ Added desktop and phone whole-page views under `#thesis-manila-full-sample`, nex
 ### Manila sample corrected lead tags ? October 16, 2026
 
 The five visible desktop trend cards now show Low (24.0), Moderate (51.0), High (74.0), Low (22.0), Low (28.0 km/h). Both desktop and phone captures were regenerated. Native card metadata and screenshots were checked: High shows Within 24 hrs, Moderate shows Within 36 hrs, and Low cards have no lead tags. Using the existing app gust factor 1.15, 74.0 / 1.15 exceeds PAGASA's Signal 2 sustained minimum of 62 km/h; 51.0 / 1.15 meets Signal 1's 39 km/h minimum. The 1.15 factor is application-specific, not a PAGASA standard. Official reference: https://pagasa.dost.gov.ph/learning-tools/tropical-cyclone-wind-signal . The scenario retains October 15 as its illustrative date. No production code was changed.
+
+
+### Manila Today reference and native shorter trails
+
+Updated desktop and phone full-page samples so Today matches the supplied Manila reference: Low, 11.0 km/h W, 1008.4 hPa (drop 1.5), rainfall 0.8 mm, humidity 84.0%. Tomorrow carries the High sample at 74.0 km/h with Within 24 hrs; Yesterday is Moderate at 51.0 with Within 36 hrs. The five visible desktop cards still contain one High, one Moderate and three Low. Today's three station winds are Low (9, 11 and 7 km/h), so the native map renderer naturally produces shorter green trails. The native 16-point trail setting and production code remain unchanged. Measured maximum trail lengths at capture: about 24.5 CSS px desktop and 20.4 CSS px phone. Footer and Back to top remain visible. These are illustrative thesis screenshots, not current forecasts.

@@ -7,22 +7,28 @@
       "height": 1000,
       "pixelRatio": 1,
       "selected": "City of Manila",
+      "windAnimation": {
+        "nativeTrailPoints": 16,
+        "reduced": false,
+        "maxGridSpeedKmh": 10.801040649414062,
+        "maxTrailPixels": 24.48912444114692
+      },
       "station": "Sangley Point",
       "stationRisks": [
         {
           "station": "NAIA",
-          "risk": "Moderate",
-          "wind": 48
+          "risk": "Low",
+          "wind": 9
         },
         {
           "station": "Sangley Point",
-          "risk": "High",
-          "wind": 74
+          "risk": "Low",
+          "wind": 11
         },
         {
           "station": "Science Garden",
           "risk": "Low",
-          "wind": 22
+          "wind": 7
         }
       ],
       "visibleFive": [
@@ -40,15 +46,15 @@
         },
         {
           "date": "2026-10-15",
-          "wind": "74.0",
-          "lead": "<span style='background:var(--c-red-100);color:var(--c-red-700);'><svg width=\"11\" height=\"11\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:inline-block;vertical-align:middle;margin-right:2px;\"><circle cx=\"6\" cy=\"6\" r=\"4.5\" stroke=\"currentColor\" stroke-width=\"1.3\"/><path d=\"M6 3.5V6l1.5 1\" stroke=\"currentColor\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Within 24 hrs</span>",
-          "risk": "High"
+          "wind": "11.0",
+          "lead": "",
+          "risk": "Low"
         },
         {
           "date": "2026-10-16",
-          "wind": "22.0",
-          "lead": "",
-          "risk": "Low"
+          "wind": "74.0",
+          "lead": "<span style='background:var(--c-red-100);color:var(--c-red-700);'><svg width=\"11\" height=\"11\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:inline-block;vertical-align:middle;margin-right:2px;\"><circle cx=\"6\" cy=\"6\" r=\"4.5\" stroke=\"currentColor\" stroke-width=\"1.3\"/><path d=\"M6 3.5V6l1.5 1\" stroke=\"currentColor\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Within 24 hrs</span>",
+          "risk": "High"
         },
         {
           "date": "2026-10-17",
@@ -75,13 +81,13 @@
         },
         {
           "date": "2026-10-15",
-          "wind": "74.0",
-          "text": "Today\nThu, Oct 15\nHigh\n Within 24 hrs\n74.0km/h\nSW direction\nPressure\n1003.2 hPa\nDrop: 6.8 hPa · Critical\nRainfall\n38.2 mm\nBe Prepared\nHumidity\n88%\n\nHeavy rain, oppressive air. Wind impact: power outages likely."
+          "wind": "11.0",
+          "text": "Today\nThu, Oct 15\nLow\n11.0km/h\nW direction\nPressure\n1008.4 hPa\nDrop: 1.5 hPa\nRainfall\n0.8 mm\nHumidity\n84%\n\nLight rain, sticky air. Wind impact: minimal."
         },
         {
           "date": "2026-10-16",
-          "wind": "22.0",
-          "text": "Tomorrow\nFri, Oct 16\nLow\n22.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+          "wind": "74.0",
+          "text": "Tomorrow\nFri, Oct 16\nHigh\n Within 24 hrs\n74.0km/h\nSW direction\nPressure\n1003.2 hPa\nDrop: 6.8 hPa · Critical\nRainfall\n38.2 mm\nBe Prepared\nHumidity\n88%\n\nHeavy rain, oppressive air. Wind impact: power outages likely."
         },
         {
           "date": "2026-10-17",
@@ -94,11 +100,11 @@
           "text": "In 3 days\nSun, Oct 18\nLow\n19.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
         }
       ],
-      "panel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nHigh\nWithin 24 hrs\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n74.0 km/h\nSW direction\nPotential Impact\nPower outages likely; minor roof damage possible.\nPressure\n1003.2 hPa\nCritical\nDrop: 6.8 hPa · severe cyclone development highly likely.\nRainfall\n38.2 mm\nBe Prepared\nFlooding is threatening, prepare to evacuate.\nHumidity\n88.0%\nOppressive\nMoisture saturation limits skin cooling.",
+      "panel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nLow\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n11.0 km/h\nW direction\nPotential Impact\nMinimal to no significant impact expected.\nPressure\n1008.4 hPa\nStable\nDrop: 1.5 hPa · normal regional atmospheric variance.\nRainfall\n0.8 mm\nNormal\nLight isolated showers or localized drizzle.\nHumidity\n84.0%\nSticky\nSweat evaporation slows down significantly.",
       "overflow": false,
       "backToTopInFooter": true,
       "chartReady": true,
-      "topThree": "Top 3 Windiest Days\nNCR, City of Manila, 1st District (City of Manila)\nGALE-CAST Forecast peak daily wind speed, 2026\n1\nOct 15, 2026\nHigh\n74.0 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n2\nJul 6, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n3\nAug 8, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.",
+      "topThree": "Top 3 Windiest Days\nNCR, City of Manila, 1st District (City of Manila)\nGALE-CAST Forecast peak daily wind speed, 2026\n1\nOct 16, 2026\nHigh\n74.0 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n2\nJul 6, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n3\nAug 8, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.",
       "boundaryDistricts": 16
     },
     {
@@ -107,22 +113,28 @@
       "height": 844,
       "pixelRatio": 1,
       "selected": "City of Manila",
+      "windAnimation": {
+        "nativeTrailPoints": 16,
+        "reduced": false,
+        "maxGridSpeedKmh": 9.388066291809082,
+        "maxTrailPixels": 20.361343431472726
+      },
       "station": "Sangley Point",
       "stationRisks": [
         {
           "station": "NAIA",
-          "risk": "Moderate",
-          "wind": 48
+          "risk": "Low",
+          "wind": 9
         },
         {
           "station": "Sangley Point",
-          "risk": "High",
-          "wind": 74
+          "risk": "Low",
+          "wind": 11
         },
         {
           "station": "Science Garden",
           "risk": "Low",
-          "wind": 22
+          "wind": 7
         }
       ],
       "visibleFive": [
@@ -140,15 +152,15 @@
         },
         {
           "date": "2026-10-15",
-          "wind": "74.0",
-          "lead": "<span style='background:var(--c-red-100);color:var(--c-red-700);'><svg width=\"11\" height=\"11\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:inline-block;vertical-align:middle;margin-right:2px;\"><circle cx=\"6\" cy=\"6\" r=\"4.5\" stroke=\"currentColor\" stroke-width=\"1.3\"/><path d=\"M6 3.5V6l1.5 1\" stroke=\"currentColor\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Within 24 hrs</span>",
-          "risk": "High"
+          "wind": "11.0",
+          "lead": "",
+          "risk": "Low"
         },
         {
           "date": "2026-10-16",
-          "wind": "22.0",
-          "lead": "",
-          "risk": "Low"
+          "wind": "74.0",
+          "lead": "<span style='background:var(--c-red-100);color:var(--c-red-700);'><svg width=\"11\" height=\"11\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:inline-block;vertical-align:middle;margin-right:2px;\"><circle cx=\"6\" cy=\"6\" r=\"4.5\" stroke=\"currentColor\" stroke-width=\"1.3\"/><path d=\"M6 3.5V6l1.5 1\" stroke=\"currentColor\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Within 24 hrs</span>",
+          "risk": "High"
         },
         {
           "date": "2026-10-17",
@@ -175,13 +187,13 @@
         },
         {
           "date": "2026-10-15",
-          "wind": "74.0",
-          "text": "Today\nThu, Oct 15\nHigh\n Within 24 hrs\n74.0km/h\nSW direction\nPressure\n1003.2 hPa\nDrop: 6.8 hPa · Critical\nRainfall\n38.2 mm\nBe Prepared\nHumidity\n88%\n\nHeavy rain, oppressive air. Wind impact: power outages likely."
+          "wind": "11.0",
+          "text": "Today\nThu, Oct 15\nLow\n11.0km/h\nW direction\nPressure\n1008.4 hPa\nDrop: 1.5 hPa\nRainfall\n0.8 mm\nHumidity\n84%\n\nLight rain, sticky air. Wind impact: minimal."
         },
         {
           "date": "2026-10-16",
-          "wind": "22.0",
-          "text": "Tomorrow\nFri, Oct 16\nLow\n22.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+          "wind": "74.0",
+          "text": "Tomorrow\nFri, Oct 16\nHigh\n Within 24 hrs\n74.0km/h\nSW direction\nPressure\n1003.2 hPa\nDrop: 6.8 hPa · Critical\nRainfall\n38.2 mm\nBe Prepared\nHumidity\n88%\n\nHeavy rain, oppressive air. Wind impact: power outages likely."
         },
         {
           "date": "2026-10-17",
@@ -194,11 +206,11 @@
           "text": "In 3 days\nSun, Oct 18\nLow\n19.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
         }
       ],
-      "panel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nHigh\nWithin 24 hrs\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n74.0 km/h\nSW direction\nPotential Impact\nPower outages likely; minor roof damage possible.\nPressure\n1003.2 hPa\nCritical\nDrop: 6.8 hPa · severe cyclone development highly likely.\nRainfall\n38.2 mm\nBe Prepared\nFlooding is threatening, prepare to evacuate.\nHumidity\n88.0%\nOppressive\nMoisture saturation limits skin cooling.",
+      "panel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nLow\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n11.0 km/h\nW direction\nPotential Impact\nMinimal to no significant impact expected.\nPressure\n1008.4 hPa\nStable\nDrop: 1.5 hPa · normal regional atmospheric variance.\nRainfall\n0.8 mm\nNormal\nLight isolated showers or localized drizzle.\nHumidity\n84.0%\nSticky\nSweat evaporation slows down significantly.",
       "overflow": false,
       "backToTopInFooter": true,
       "chartReady": true,
-      "topThree": "Top 3 Windiest Days\nHide top 3 days\nNCR, City of Manila, 1st District (City of Manila)\nGALE-CAST Forecast peak daily wind speed, 2026\n1\nOct 15, 2026\nHigh\n74.0 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n2\nJul 6, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n3\nAug 8, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.",
+      "topThree": "Top 3 Windiest Days\nHide top 3 days\nNCR, City of Manila, 1st District (City of Manila)\nGALE-CAST Forecast peak daily wind speed, 2026\n1\nOct 16, 2026\nHigh\n74.0 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n2\nJul 6, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n3\nAug 8, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.",
       "boundaryDistricts": 16
     }
   ],
@@ -207,6 +219,6 @@
   "appConversion": {
     "gustFactor": 1.15,
     "signal2DisplayedMin": 71.3,
-    "explanation": "The 1.15 conversion is an application rule; PAGASA thresholds are sustained winds."
+    "explanation": "The 1.15 factor is application-specific; PAGASA thresholds use sustained winds."
   }
 }
