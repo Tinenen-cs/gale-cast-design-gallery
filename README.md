@@ -32,3 +32,8 @@ Added Figure 4.3 (Interactive District Map Selection View) immediately after Fig
 ### Figure 4.3 wind animation capture update
 
 Replaced all three map PNGs with frames of the original live wind-particle animation. Reduced-motion arrows were disabled for capture; no production animation code or design was changed. Capture checks confirm animation enabled and running, reduced motion off, and trails of 16 points on desktop and phone.
+
+
+### Figure 4.3 ? City of Manila
+
+Replaced the three spatial figure images with 2? resolution captures focused on the City of Manila and its 16 highlighted district boundaries. The existing system maps Manila to Sangley Point (Sector West/Bay, Manila Bay / SW Approach); that mapping and the displayed live forecast were preserved. The context capture includes risk, wind, pressure tendency, rainfall and humidity. Original wind-particle trails remain enabled. Website defaults and production source were not changed.

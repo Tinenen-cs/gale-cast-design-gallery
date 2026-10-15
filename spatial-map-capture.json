@@ -1,7 +1,12 @@
 {
-  "caption": "Figure 4.3. Interactive District Map Selection View",
+  "caption": "Figure 4.3. Interactive District Map Selection View ? City of Manila",
   "source": "https://gale-cast.vercel.app",
-  "rendering": "Frames of the original system wind-particle animation; no reduced-motion arrows",
+  "pixelRatio": 2,
+  "contextImagePixels": {
+    "width": 2614,
+    "height": 1178
+  },
+  "rendering": "Original system wind trails; City of Manila highlighted; existing Sangley Point mapping",
   "captures": [
     {
       "device": "desktop",
@@ -13,13 +18,16 @@
         "trailPoints": 16
       },
       "center": {
-        "lat": 14.590082001350872,
-        "lng": 121.00500000000001
+        "lat": 14.600538000208502,
+        "lng": 120.98295974938463
       },
-      "zoom": 10,
-      "selected": "Quezon City",
-      "selectedKey": "quezon city",
+      "zoom": 12,
+      "selected": "City of Manila",
+      "selectedKey": "city of manila",
+      "boundaryDistricts": 16,
       "boundary": true,
+      "station": "Sangley Point",
+      "forecastPanel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nLow\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n11.0 km/h\nW direction\nPotential Impact\nMinimal to no significant impact expected.\nPressure\n1008.4 hPa\nStable\nDrop: 1.5 hPa · normal regional atmospheric variance.\nRainfall\n0.8 mm\nNormal\nLight isolated showers or localized drizzle.\nHumidity\n84.0%\nSticky\nSweat evaporation slows down significantly.",
       "stations": [
         {
           "lat": 14.5086,
@@ -45,7 +53,7 @@
       "legend": "Low\nModerate\nHigh\nWind flow estimated from 3 PAGASA stations · Today.\nSee its 3-day trend",
       "clip": {
         "x": 22,
-        "y": 1674.28125,
+        "y": 1675.40625,
         "width": 720.640625,
         "height": 589.4375
       },
@@ -62,13 +70,16 @@
         "trailPoints": 16
       },
       "center": {
-        "lat": 14.679855584211321,
-        "lng": 121.0581579325001
+        "lat": 14.600533903645664,
+        "lng": 120.98295974938472
       },
-      "zoom": 11,
-      "selected": "Quezon City",
-      "selectedKey": "quezon city",
+      "zoom": 12,
+      "selected": "City of Manila",
+      "selectedKey": "city of manila",
+      "boundaryDistricts": 16,
       "boundary": true,
+      "station": "Sangley Point",
+      "forecastPanel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nLow\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n11.0 km/h\nW direction\nPotential Impact\nMinimal to no significant impact expected.\nPressure\n1008.4 hPa\nStable\nDrop: 1.5 hPa · normal regional atmospheric variance.\nRainfall\n0.8 mm\nNormal\nLight isolated showers or localized drizzle.\nHumidity\n84.0%\nSticky\nSweat evaporation slows down significantly.",
       "stations": [
         {
           "lat": 14.5086,
@@ -94,7 +105,7 @@
       "legend": "Low\nModerate\nHigh\nWind flow estimated from 3 PAGASA stations · Today.",
       "clip": {
         "x": 14,
-        "y": 1832.015625,
+        "y": 1832.703125,
         "width": 347,
         "height": 421.0625
       },
