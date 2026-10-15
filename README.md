@@ -37,3 +37,8 @@ Replaced all three map PNGs with frames of the original live wind-particle anima
 ### Figure 4.3 ? City of Manila
 
 Replaced the three spatial figure images with 2? resolution captures focused on the City of Manila and its 16 highlighted district boundaries. The existing system maps Manila to Sangley Point (Sector West/Bay, Manila Bay / SW Approach); that mapping and the displayed live forecast were preserved. The context capture includes risk, wind, pressure tendency, rainfall and humidity. Original wind-particle trails remain enabled. Website defaults and production source were not changed.
+
+
+### Full-page Manila risk-tier thesis sample
+
+Added desktop and phone whole-page views under `#thesis-manila-full-sample`, next to Figure 4.2 and before Figure 4.3. Manila is selected, mapped to Sangley Point, with one High trend day (71.0 km/h), Moderate days and Low days. Sample station data, trend cards, side panel, annual chart and Top 3 are rendered through the existing UI with controlled illustrative values. These are sample UI figures, not actual forecasts. Both include the footer and Back to top, with original wind trails and no production code changes. The phone retains native horizontal card scrolling.

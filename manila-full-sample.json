@@ -1,0 +1,142 @@
+{
+  "purpose": "Illustrative full-page Manila sample with Moderate, High and Low days. Not an actual forecast.",
+  "checks": [
+    {
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "pixelRatio": 1,
+      "selected": "City of Manila",
+      "station": "Sangley Point",
+      "stationRisks": [
+        {
+          "station": "NAIA",
+          "risk": "Moderate",
+          "wind": 48
+        },
+        {
+          "station": "Sangley Point",
+          "risk": "High",
+          "wind": 71
+        },
+        {
+          "station": "Science Garden",
+          "risk": "Low",
+          "wind": 22
+        }
+      ],
+      "trend": [
+        {
+          "date": "2026-10-12",
+          "wind": "24.0",
+          "text": "3 days ago\nMon, Oct 12\nLow\n24.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+        },
+        {
+          "date": "2026-10-13",
+          "wind": "43.0",
+          "text": "2 days ago\nTue, Oct 13\nModerate\n43.0km/h\nSW direction\nPressure\n1006.6 hPa\nDrop: 3.4 hPa · Unstable\nRainfall\n22.0 mm\nBe Alert\nHumidity\n86%\n\nModerate rain, oppressive air. Wind impact: minor disruption possible."
+        },
+        {
+          "date": "2026-10-14",
+          "wind": "51.0",
+          "text": "Yesterday\nWed, Oct 14\nModerate\n Within 36 hrs\n51.0km/h\nSW direction\nPressure\n1006.6 hPa\nDrop: 3.4 hPa · Unstable\nRainfall\n22.0 mm\nBe Alert\nHumidity\n86%\n\nModerate rain, oppressive air. Wind impact: minor disruption possible."
+        },
+        {
+          "date": "2026-10-15",
+          "wind": "71.0",
+          "text": "Today\nThu, Oct 15\nHigh\n71.0km/h\nSW direction\nPressure\n1003.2 hPa\nDrop: 6.8 hPa · Critical\nRainfall\n38.2 mm\nBe Prepared\nHumidity\n88%\n\nHeavy rain, oppressive air. Wind impact: power outages likely."
+        },
+        {
+          "date": "2026-10-16",
+          "wind": "22.0",
+          "text": "Tomorrow\nFri, Oct 16\nLow\n22.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+        },
+        {
+          "date": "2026-10-17",
+          "wind": "45.0",
+          "text": "In 2 days\nSat, Oct 17\nModerate\n Within 36 hrs\n45.0km/h\nSW direction\nPressure\n1006.6 hPa\nDrop: 3.4 hPa · Unstable\nRainfall\n22.0 mm\nBe Alert\nHumidity\n86%\n\nModerate rain, oppressive air. Wind impact: minor disruption possible."
+        },
+        {
+          "date": "2026-10-18",
+          "wind": "19.0",
+          "text": "In 3 days\nSun, Oct 18\nLow\n19.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+        }
+      ],
+      "panel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nHigh\nWithin 24 hrs\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n71.0 km/h\nSW direction\nPotential Impact\nPower outages likely; minor roof damage possible.\nPressure\n1003.2 hPa\nCritical\nDrop: 6.8 hPa · severe cyclone development highly likely.\nRainfall\n38.2 mm\nBe Prepared\nFlooding is threatening, prepare to evacuate.\nHumidity\n88.0%\nOppressive\nMoisture saturation limits skin cooling.",
+      "overflow": false,
+      "backToTopInFooter": true,
+      "chartReady": true,
+      "topThree": "Top 3 Windiest Days\nNCR, City of Manila, 1st District (City of Manila)\nGALE-CAST Forecast peak daily wind speed, 2026\n1\nOct 15, 2026\nHigh\n71.0 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n2\nJul 6, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n3\nAug 8, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.",
+      "boundaryDistricts": 16
+    },
+    {
+      "device": "phone",
+      "width": 390,
+      "height": 844,
+      "pixelRatio": 1,
+      "selected": "City of Manila",
+      "station": "Sangley Point",
+      "stationRisks": [
+        {
+          "station": "NAIA",
+          "risk": "Moderate",
+          "wind": 48
+        },
+        {
+          "station": "Sangley Point",
+          "risk": "High",
+          "wind": 71
+        },
+        {
+          "station": "Science Garden",
+          "risk": "Low",
+          "wind": 22
+        }
+      ],
+      "trend": [
+        {
+          "date": "2026-10-12",
+          "wind": "24.0",
+          "text": "3 days ago\nMon, Oct 12\nLow\n24.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+        },
+        {
+          "date": "2026-10-13",
+          "wind": "43.0",
+          "text": "2 days ago\nTue, Oct 13\nModerate\n43.0km/h\nSW direction\nPressure\n1006.6 hPa\nDrop: 3.4 hPa · Unstable\nRainfall\n22.0 mm\nBe Alert\nHumidity\n86%\n\nModerate rain, oppressive air. Wind impact: minor disruption possible."
+        },
+        {
+          "date": "2026-10-14",
+          "wind": "51.0",
+          "text": "Yesterday\nWed, Oct 14\nModerate\n Within 36 hrs\n51.0km/h\nSW direction\nPressure\n1006.6 hPa\nDrop: 3.4 hPa · Unstable\nRainfall\n22.0 mm\nBe Alert\nHumidity\n86%\n\nModerate rain, oppressive air. Wind impact: minor disruption possible."
+        },
+        {
+          "date": "2026-10-15",
+          "wind": "71.0",
+          "text": "Today\nThu, Oct 15\nHigh\n71.0km/h\nSW direction\nPressure\n1003.2 hPa\nDrop: 6.8 hPa · Critical\nRainfall\n38.2 mm\nBe Prepared\nHumidity\n88%\n\nHeavy rain, oppressive air. Wind impact: power outages likely."
+        },
+        {
+          "date": "2026-10-16",
+          "wind": "22.0",
+          "text": "Tomorrow\nFri, Oct 16\nLow\n22.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+        },
+        {
+          "date": "2026-10-17",
+          "wind": "45.0",
+          "text": "In 2 days\nSat, Oct 17\nModerate\n Within 36 hrs\n45.0km/h\nSW direction\nPressure\n1006.6 hPa\nDrop: 3.4 hPa · Unstable\nRainfall\n22.0 mm\nBe Alert\nHumidity\n86%\n\nModerate rain, oppressive air. Wind impact: minor disruption possible."
+        },
+        {
+          "date": "2026-10-18",
+          "wind": "19.0",
+          "text": "In 3 days\nSun, Oct 18\nLow\n19.0km/h\nSW direction\nPressure\n1009.1 hPa\nDrop: 0.9 hPa\nRainfall\n5.1 mm\nHumidity\n79%\n\nLight rain, sticky air. Wind impact: minimal."
+        }
+      ],
+      "panel": "City of Manila\nNCR\n1st District (City of Manila)\nOct 15, 2026\nHigh\nWithin 24 hrs\nStation: Sangley Point\nSector West/Bay · Manila Bay / SW Approach — Cavite\n71.0 km/h\nSW direction\nPotential Impact\nPower outages likely; minor roof damage possible.\nPressure\n1003.2 hPa\nCritical\nDrop: 6.8 hPa · severe cyclone development highly likely.\nRainfall\n38.2 mm\nBe Prepared\nFlooding is threatening, prepare to evacuate.\nHumidity\n88.0%\nOppressive\nMoisture saturation limits skin cooling.",
+      "overflow": false,
+      "backToTopInFooter": true,
+      "chartReady": true,
+      "topThree": "Top 3 Windiest Days\nHide top 3 days\nNCR, City of Manila, 1st District (City of Manila)\nGALE-CAST Forecast peak daily wind speed, 2026\n1\nOct 15, 2026\nHigh\n71.0 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n2\nJul 6, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.\n3\nAug 8, 2026\nHigh\n69.3 km/h\nSW direction\nGale threshold 62 km/h\n100%\nPower outages likely; minor roof damage possible.",
+      "boundaryDistricts": 16
+    }
+  ],
+  "errors": []
+}
