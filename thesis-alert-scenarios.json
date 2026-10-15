@@ -6,32 +6,32 @@
       "kind": "high",
       "cities": [
         {
-          "name": "Pasay City",
-          "lat": 14.5378,
-          "lon": 121.0014,
+          "name": "Quezon City",
+          "lat": 14.676,
+          "lon": 121.0437,
           "risk_level": "High",
-          "wind_speed_kmh": 70.4,
+          "wind_speed_kmh": 68.4,
           "wind_direction": "NE",
-          "rainfall": 21.5,
-          "humidity": 88.1,
-          "pressure_drop": 1.2
+          "rainfall": 20.6,
+          "humidity": 87.5,
+          "pressure_drop": 1.1
         }
       ],
       "date": "2026-10-16",
       "payload": {
         "title": "High Risk Gale Hazard Warning Tomorrow: October 16, 2026",
-        "body": "Affected: Pasay City (70.4 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+        "body": "Affected: Quezon City (68.4 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "device": "desktop",
       "width": 1366,
       "height": 900,
       "check": {
         "badge": "High Gale Warning",
-        "title": "High gale risk tomorrow in Pasay City",
+        "title": "High gale risk tomorrow in Quezon City",
         "testNoteHidden": true,
         "overflow": false,
         "cityChips": [
-          "Pasay City"
+          "Quezon City"
         ]
       }
     },
@@ -39,32 +39,32 @@
       "kind": "high",
       "cities": [
         {
-          "name": "Pasay City",
-          "lat": 14.5378,
-          "lon": 121.0014,
+          "name": "Quezon City",
+          "lat": 14.676,
+          "lon": 121.0437,
           "risk_level": "High",
-          "wind_speed_kmh": 70.4,
+          "wind_speed_kmh": 68.4,
           "wind_direction": "NE",
-          "rainfall": 21.5,
-          "humidity": 88.1,
-          "pressure_drop": 1.2
+          "rainfall": 20.6,
+          "humidity": 87.5,
+          "pressure_drop": 1.1
         }
       ],
       "date": "2026-10-16",
       "payload": {
         "title": "High Risk Gale Hazard Warning Tomorrow: October 16, 2026",
-        "body": "Affected: Pasay City (70.4 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+        "body": "Affected: Quezon City (68.4 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "device": "phone",
       "width": 390,
       "height": 844,
       "check": {
         "badge": "High Gale Warning",
-        "title": "High gale risk tomorrow in Pasay City",
+        "title": "High gale risk tomorrow in Quezon City",
         "testNoteHidden": true,
         "overflow": false,
         "cityChips": [
-          "Pasay City"
+          "Quezon City"
         ]
       }
     },
@@ -72,32 +72,32 @@
       "kind": "moderate",
       "cities": [
         {
-          "name": "Makati City",
-          "lat": 14.5547,
-          "lon": 121.0244,
+          "name": "Manila",
+          "lat": 14.5995,
+          "lon": 120.9842,
           "risk_level": "Moderate",
-          "wind_speed_kmh": 52.3,
-          "wind_direction": "NE",
-          "rainfall": 12.6,
-          "humidity": 84.8,
-          "pressure_drop": 0.7
+          "wind_speed_kmh": 44.1,
+          "wind_direction": "NNE",
+          "rainfall": 9.8,
+          "humidity": 83.9,
+          "pressure_drop": 0.5
         }
       ],
       "date": "2026-10-16",
       "payload": {
         "title": "Moderate Gale Warning Tomorrow: October 16, 2026",
-        "body": "Affected: Makati City (52.3 km/h)\n\nRisk: strong winds, loose objects, difficult travel.\nAction: Secure loose items, take care when travelling, watch PAGASA updates.\nPrepare: Signal No. 1 level; PAGASA usually warns about 36 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+        "body": "Affected: Manila (44.1 km/h)\n\nRisk: strong winds, loose objects, difficult travel.\nAction: Secure loose items, take care when travelling, watch PAGASA updates.\nPrepare: Signal No. 1 level; PAGASA usually warns about 36 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "device": "desktop",
       "width": 1366,
       "height": 900,
       "check": {
         "badge": "Moderate Gale Warning",
-        "title": "Moderate wind risk tomorrow in Makati City",
+        "title": "Moderate wind risk tomorrow in Manila",
         "testNoteHidden": true,
         "overflow": false,
         "cityChips": [
-          "Makati City"
+          "Manila"
         ]
       }
     },
@@ -105,32 +105,32 @@
       "kind": "moderate",
       "cities": [
         {
-          "name": "Makati City",
-          "lat": 14.5547,
-          "lon": 121.0244,
+          "name": "Manila",
+          "lat": 14.5995,
+          "lon": 120.9842,
           "risk_level": "Moderate",
-          "wind_speed_kmh": 52.3,
-          "wind_direction": "NE",
-          "rainfall": 12.6,
-          "humidity": 84.8,
-          "pressure_drop": 0.7
+          "wind_speed_kmh": 44.1,
+          "wind_direction": "NNE",
+          "rainfall": 9.8,
+          "humidity": 83.9,
+          "pressure_drop": 0.5
         }
       ],
       "date": "2026-10-16",
       "payload": {
         "title": "Moderate Gale Warning Tomorrow: October 16, 2026",
-        "body": "Affected: Makati City (52.3 km/h)\n\nRisk: strong winds, loose objects, difficult travel.\nAction: Secure loose items, take care when travelling, watch PAGASA updates.\nPrepare: Signal No. 1 level; PAGASA usually warns about 36 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+        "body": "Affected: Manila (44.1 km/h)\n\nRisk: strong winds, loose objects, difficult travel.\nAction: Secure loose items, take care when travelling, watch PAGASA updates.\nPrepare: Signal No. 1 level; PAGASA usually warns about 36 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "device": "phone",
       "width": 390,
       "height": 844,
       "check": {
         "badge": "Moderate Gale Warning",
-        "title": "Moderate wind risk tomorrow in Makati City",
+        "title": "Moderate wind risk tomorrow in Manila",
         "testNoteHidden": true,
         "overflow": false,
         "cityChips": [
-          "Makati City"
+          "Manila"
         ]
       }
     },
@@ -138,44 +138,44 @@
       "kind": "mixed",
       "cities": [
         {
-          "name": "Pasay City",
-          "lat": 14.5378,
-          "lon": 121.0014,
+          "name": "Quezon City",
+          "lat": 14.676,
+          "lon": 121.0437,
           "risk_level": "High",
-          "wind_speed_kmh": 70.4,
+          "wind_speed_kmh": 68.4,
           "wind_direction": "NE",
-          "rainfall": 21.5,
-          "humidity": 88.1,
-          "pressure_drop": 1.2
+          "rainfall": 20.6,
+          "humidity": 87.5,
+          "pressure_drop": 1.1
         },
         {
-          "name": "Makati City",
-          "lat": 14.5547,
-          "lon": 121.0244,
+          "name": "Manila",
+          "lat": 14.5995,
+          "lon": 120.9842,
           "risk_level": "Moderate",
-          "wind_speed_kmh": 52.3,
-          "wind_direction": "NE",
-          "rainfall": 12.6,
-          "humidity": 84.8,
-          "pressure_drop": 0.7
+          "wind_speed_kmh": 44.1,
+          "wind_direction": "NNE",
+          "rainfall": 9.8,
+          "humidity": 83.9,
+          "pressure_drop": 0.5
         }
       ],
       "date": "2026-10-16",
       "payload": {
         "title": "High and Moderate Gale Warning Tomorrow: October 16, 2026",
-        "body": "Affected: Pasay City (70.4 km/h), Makati City (52.3 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+        "body": "Affected: Quezon City (68.4 km/h), Manila (44.1 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "device": "desktop",
       "width": 1366,
       "height": 900,
       "check": {
         "badge": "High and Moderate Gale Warning",
-        "title": "High gale risk tomorrow in Pasay City",
+        "title": "High gale risk tomorrow in Quezon City",
         "testNoteHidden": true,
         "overflow": false,
         "cityChips": [
-          "Pasay City",
-          "Makati City"
+          "Quezon City",
+          "Manila"
         ]
       }
     },
@@ -183,44 +183,44 @@
       "kind": "mixed",
       "cities": [
         {
-          "name": "Pasay City",
-          "lat": 14.5378,
-          "lon": 121.0014,
+          "name": "Quezon City",
+          "lat": 14.676,
+          "lon": 121.0437,
           "risk_level": "High",
-          "wind_speed_kmh": 70.4,
+          "wind_speed_kmh": 68.4,
           "wind_direction": "NE",
-          "rainfall": 21.5,
-          "humidity": 88.1,
-          "pressure_drop": 1.2
+          "rainfall": 20.6,
+          "humidity": 87.5,
+          "pressure_drop": 1.1
         },
         {
-          "name": "Makati City",
-          "lat": 14.5547,
-          "lon": 121.0244,
+          "name": "Manila",
+          "lat": 14.5995,
+          "lon": 120.9842,
           "risk_level": "Moderate",
-          "wind_speed_kmh": 52.3,
-          "wind_direction": "NE",
-          "rainfall": 12.6,
-          "humidity": 84.8,
-          "pressure_drop": 0.7
+          "wind_speed_kmh": 44.1,
+          "wind_direction": "NNE",
+          "rainfall": 9.8,
+          "humidity": 83.9,
+          "pressure_drop": 0.5
         }
       ],
       "date": "2026-10-16",
       "payload": {
         "title": "High and Moderate Gale Warning Tomorrow: October 16, 2026",
-        "body": "Affected: Pasay City (70.4 km/h), Makati City (52.3 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
+        "body": "Affected: Quezon City (68.4 km/h), Manila (44.1 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "device": "phone",
       "width": 390,
       "height": 844,
       "check": {
         "badge": "High and Moderate Gale Warning",
-        "title": "High gale risk tomorrow in Pasay City",
+        "title": "High gale risk tomorrow in Quezon City",
         "testNoteHidden": true,
         "overflow": false,
         "cityChips": [
-          "Pasay City",
-          "Makati City"
+          "Quezon City",
+          "Manila"
         ]
       }
     }
