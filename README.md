@@ -42,3 +42,8 @@ Replaced the three spatial figure images with 2? resolution captures focused on 
 ### Full-page Manila risk-tier thesis sample
 
 Added desktop and phone whole-page views under `#thesis-manila-full-sample`, next to Figure 4.2 and before Figure 4.3. Manila is selected, mapped to Sangley Point, with one High trend day (71.0 km/h), Moderate days and Low days. Sample station data, trend cards, side panel, annual chart and Top 3 are rendered through the existing UI with controlled illustrative values. These are sample UI figures, not actual forecasts. Both include the footer and Back to top, with original wind trails and no production code changes. The phone retains native horizontal card scrolling.
+
+
+### Manila sample corrected lead tags ? October 16, 2026
+
+The five visible desktop trend cards now show Low (24.0), Moderate (51.0), High (74.0), Low (22.0), Low (28.0 km/h). Both desktop and phone captures were regenerated. Native card metadata and screenshots were checked: High shows Within 24 hrs, Moderate shows Within 36 hrs, and Low cards have no lead tags. Using the existing app gust factor 1.15, 74.0 / 1.15 exceeds PAGASA's Signal 2 sustained minimum of 62 km/h; 51.0 / 1.15 meets Signal 1's 39 km/h minimum. The 1.15 factor is application-specific, not a PAGASA standard. Official reference: https://pagasa.dost.gov.ph/learning-tools/tropical-cyclone-wind-signal . The scenario retains October 15 as its illustrative date. No production code was changed.
