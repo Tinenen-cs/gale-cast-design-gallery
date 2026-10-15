@@ -1,9 +1,17 @@
 {
   "caption": "Figure 4.3. Interactive District Map Selection View",
   "source": "https://gale-cast.vercel.app",
+  "rendering": "Frames of the original system wind-particle animation; no reduced-motion arrows",
   "captures": [
     {
       "device": "desktop",
+      "windAnimation": {
+        "reduced": false,
+        "enabled": true,
+        "running": true,
+        "particles": 418,
+        "trailPoints": 16
+      },
       "center": {
         "lat": 14.590082001350872,
         "lng": 121.00500000000001
@@ -46,6 +54,13 @@
     },
     {
       "device": "phone",
+      "windAnimation": {
+        "reduced": false,
+        "enabled": true,
+        "running": true,
+        "particles": 150,
+        "trailPoints": 16
+      },
       "center": {
         "lat": 14.679855584211321,
         "lng": 121.0581579325001
@@ -84,8 +99,7 @@
         "height": 421.0625
       },
       "tiles": true,
-      "coverageCircles": 3,
-      "captureNote": "Existing map and legend wrapped temporarily for element screenshot; no visual styling or production code changed."
+      "coverageCircles": 3
     }
   ]
 }
