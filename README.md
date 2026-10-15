@@ -22,3 +22,8 @@ Live alert references update (October 13, 2026): first-view and expanded High al
 ## Thesis alert and notification figures — October 15, 2026
 
 Added 15 separate figures under `#thesis-alert-figures`: High for Quezon City only (68.4 km/h), Moderate for Manila only (44.1 km/h), and mixed High/Moderate for those two cities only. Each includes desktop and phone alert views, matching Windows/Android notification illustrations, and expanded phone alert content. The existing website renderer was used in browser memory with the built-in sample city values and October 16, 2026 as the illustrative forecast date. No TEST ONLY tag appears in these thesis figures. Gallery captions explicitly identify sample scenarios; they are not actual forecasts or proof of push delivery. Production website files and all prior gallery images are unchanged.
+
+
+## Spatial map thesis figure — October 15, 2026
+
+Added Figure 4.3 (Interactive District Map Selection View) immediately after Figure 4.2 (trend), followed by Public Readiness 4.4 and About 4.5. Alert and notification sets are numbered 4.6–4.11; device versions are alternatives. Three new PNGs show the live homepage map with Quezon City selected, station risk coverage shading, the IDW-interpolated wind-flow arrows and risk legend. Captures use the real October 15, 2026 forecast, not synthetic hazard values. Blue shading is selection. The existing frontend does not render a continuous filled heatmap; the figure caption explicitly distinguishes IDW wind flow from coverage shading and calibrated city forecast values. No product code or paper document was edited. Existing full-page images are reused without modification.

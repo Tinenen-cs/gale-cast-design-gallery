@@ -1,0 +1,91 @@
+{
+  "caption": "Figure 4.3. Interactive District Map Selection View",
+  "source": "https://gale-cast.vercel.app",
+  "captures": [
+    {
+      "device": "desktop",
+      "center": {
+        "lat": 14.590082001350872,
+        "lng": 121.00500000000001
+      },
+      "zoom": 10,
+      "selected": "Quezon City",
+      "selectedKey": "quezon city",
+      "boundary": true,
+      "stations": [
+        {
+          "lat": 14.5086,
+          "lng": 121.0198,
+          "u": -2.3097,
+          "v": -0.956709
+        },
+        {
+          "lat": 14.4955,
+          "lng": 120.906,
+          "u": -3.05556,
+          "v": 0
+        },
+        {
+          "lat": 14.642,
+          "lng": 121.042,
+          "u": 1.94444,
+          "v": 0
+        }
+      ],
+      "gridPoints": 713,
+      "date": "2026-10-15",
+      "legend": "Low\nModerate\nHigh\nWind flow estimated from 3 PAGASA stations · Today.\nSee its 3-day trend",
+      "clip": {
+        "x": 22,
+        "y": 1674.28125,
+        "width": 720.640625,
+        "height": 589.4375
+      },
+      "tiles": true,
+      "coverageCircles": 3
+    },
+    {
+      "device": "phone",
+      "center": {
+        "lat": 14.679855584211321,
+        "lng": 121.0581579325001
+      },
+      "zoom": 11,
+      "selected": "Quezon City",
+      "selectedKey": "quezon city",
+      "boundary": true,
+      "stations": [
+        {
+          "lat": 14.5086,
+          "lng": 121.0198,
+          "u": -2.3097,
+          "v": -0.956709
+        },
+        {
+          "lat": 14.4955,
+          "lng": 120.906,
+          "u": -3.05556,
+          "v": 0
+        },
+        {
+          "lat": 14.642,
+          "lng": 121.042,
+          "u": 1.94444,
+          "v": 0
+        }
+      ],
+      "gridPoints": 256,
+      "date": "2026-10-15",
+      "legend": "Low\nModerate\nHigh\nWind flow estimated from 3 PAGASA stations · Today.",
+      "clip": {
+        "x": 14,
+        "y": 1832.015625,
+        "width": 347,
+        "height": 421.0625
+      },
+      "tiles": true,
+      "coverageCircles": 3,
+      "captureNote": "Existing map and legend wrapped temporarily for element screenshot; no visual styling or production code changed."
+    }
+  ]
+}
