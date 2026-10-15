@@ -1,7 +1,8 @@
 {
-  "purpose": "Additional illustrative thesis variant; not an actual forecast or delivered push.",
-  "forecastDate": "2026-10-16",
-  "manilaBoundarySource": "Existing inline website district polygons, excluding Caloocan; preloaded for screenshot only. Production source unchanged.",
+  "purpose": "Illustrative thesis alert and notification variant; not a real warning.",
+  "forecastDate": "2026-10-15",
+  "relativeWording": "Today, matching the supplied October 15 full-page reference",
+  "manilaBoundarySource": "Native inline district geometry excluding Caloocan, preloaded for screenshots only.",
   "captures": [
     {
       "device": "desktop",
@@ -32,9 +33,9 @@
           "pressure_drop": 3.4
         }
       ],
-      "date": "2026-10-16",
+      "date": "2026-10-15",
       "payload": {
-        "title": "High and Moderate Gale Warning Tomorrow: October 16, 2026",
+        "title": "High and Moderate Gale Warning Today: October 15, 2026",
         "body": "Affected: Manila (74.0 km/h), Pasay City (50.3 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "stationReferences": {
@@ -42,7 +43,9 @@
         "Pasay City": "NAIA"
       },
       "check": {
-        "title": "High gale risk tomorrow in Manila",
+        "dateLabel": "Thursday, October 15, 2026",
+        "leadText": "CITIES UNDER GALE RISK\nManila\nPasay City\nTIME TO PREPARE\nSignal No. 2 level (Tropical Storm, 62–88 km/h)\n24 hours\n\nThe strongest forecast wind is 74.0 km/h in Manila. PAGASA usually raises a Signal No. 2 about 24 hours before winds of this strength arrive.\n\nFor winds on Thursday, October 15, that point (about Wednesday, October 14 at 12:00 AM) has passed: a PAGASA bulletin may already be out. Check it now and prepare.\n\nLead times follow PAGASA's Tropical Cyclone Wind Signal guide. Follow the official PAGASA bulletin for the actual signal.\n\nWHAT YOU SHOULD DO\nStay indoors and away from windows during peak wind hours.\nSecure or bring inside all loose outdoor items: chairs, pots, signs, and hanging objects.\nAvoid unnecessary travel, especially on motorcycles and bicycles.\nCheck on elderly neighbors and those living in informal or vulnerable housing.\nKeep the emergency hotlines below ready. Tap a number to call.\nMonitor official PAGASA advisories and local government announcements for updates.\nIMPACTS ON PEOPLE & COMMUNITIES\nRisk of injury from flying debris and unsecured outdoor objects at gale-force speeds.\nExtremely difficult and dangerous to walk outdoors, as strong gusts can knock pedestrians off balance.\nMotorcyclists and cyclists face severe side-wind hazard; travel is strongly discouraged.\nPotential structural damage to poorly constructed buildings, fences, roofing, and signage.\nTree branches may snap; risk of falling limbs onto roads, walkways, and parked vehicles.\nRisk of power line disruption and loss of communication infrastructure in affected areas.\nEMERGENCY HOTLINES\nEmergency\nNational emergency hotline\n911\nNDRRMC\nOperations Center\n(02) 8911-1406\nPAGASA\nWeather and flood forecasting\n(02) 8284-0800\nManila DRRMO\nCity of Manila disaster office\n0932 662 2322\n0950 700 3710\n(02) 8463 3295",
+        "title": "High gale risk today in Manila",
         "badge": "High and Moderate Gale Warning",
         "testNoteHidden": true,
         "markers": [
@@ -91,9 +94,9 @@
           "pressure_drop": 3.4
         }
       ],
-      "date": "2026-10-16",
+      "date": "2026-10-15",
       "payload": {
-        "title": "High and Moderate Gale Warning Tomorrow: October 16, 2026",
+        "title": "High and Moderate Gale Warning Today: October 15, 2026",
         "body": "Affected: Manila (74.0 km/h), Pasay City (50.3 km/h)\n\nRisk: flying debris, structural damage, dangerous travel conditions.\nAction: Stay indoors, secure loose items, avoid motorcycles.\nPrepare: Signal No. 2 level; PAGASA usually warns about 24 hours before.\nHotlines: Emergency 911 | NDRRMC (02) 8911-1406 | PAGASA (02) 8284-0800 | Manila DRRMO 0932 662 2322"
       },
       "stationReferences": {
@@ -101,7 +104,9 @@
         "Pasay City": "NAIA"
       },
       "check": {
-        "title": "High gale risk tomorrow in Manila",
+        "dateLabel": "Thursday, October 15, 2026",
+        "leadText": "CITIES UNDER GALE RISK\nManila\nPasay City\nTIME TO PREPARE\nSignal No. 2 level (Tropical Storm, 62–88 km/h)\n24 hours\n\nThe strongest forecast wind is 74.0 km/h in Manila. PAGASA usually raises a Signal No. 2 about 24 hours before winds of this strength arrive.\n\nFor winds on Thursday, October 15, that point (about Wednesday, October 14 at 12:00 AM) has passed: a PAGASA bulletin may already be out. Check it now and prepare.\n\nLead times follow PAGASA's Tropical Cyclone Wind Signal guide. Follow the official PAGASA bulletin for the actual signal.\n\nWHAT YOU SHOULD DO\nStay indoors and away from windows during peak wind hours.\nSecure or bring inside all loose outdoor items: chairs, pots, signs, and hanging objects.\nAvoid unnecessary travel, especially on motorcycles and bicycles.\nCheck on elderly neighbors and those living in informal or vulnerable housing.\nKeep the emergency hotlines below ready. Tap a number to call.\nMonitor official PAGASA advisories and local government announcements for updates.\nIMPACTS ON PEOPLE & COMMUNITIES\nRisk of injury from flying debris and unsecured outdoor objects at gale-force speeds.\nExtremely difficult and dangerous to walk outdoors, as strong gusts can knock pedestrians off balance.\nMotorcyclists and cyclists face severe side-wind hazard; travel is strongly discouraged.\nPotential structural damage to poorly constructed buildings, fences, roofing, and signage.\nTree branches may snap; risk of falling limbs onto roads, walkways, and parked vehicles.\nRisk of power line disruption and loss of communication infrastructure in affected areas.\nEMERGENCY HOTLINES\nEmergency\nNational emergency hotline\n911\nNDRRMC\nOperations Center\n(02) 8911-1406\nPAGASA\nWeather and flood forecasting\n(02) 8284-0800\nManila DRRMO\nCity of Manila disaster office\n0932 662 2322\n0950 700 3710\n(02) 8463 3295",
+        "title": "High gale risk today in Manila",
         "badge": "High and Moderate Gale Warning",
         "testNoteHidden": true,
         "markers": [

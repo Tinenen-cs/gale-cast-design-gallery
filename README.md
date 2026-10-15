@@ -62,3 +62,8 @@ Added six images under `#thesis-manila-pasay-alerts`: initial and expanded alert
 ### Matching notification-card close-ups
 
 Added Android and Windows notification-only crops for the Manila High (74.0 km/h) / Pasay Moderate (50.3 km/h) variant. Text was checked against the paired alert. Gallery captions continue to identify these as illustrations.
+
+
+### Manila / Pasay variant date correction
+
+Updated all eight alert and notification images to the illustrative forecast date Thursday, October 15, 2026, matching the supplied High-risk full-page reference. The headline and notification title say Today; date-dependent preparation text was regenerated. Initial and expanded alerts, device notification illustrations and cropped notification cards were recaptured. Manila remains High at 74.0 km/h and Pasay Moderate at 50.3 km/h. This date correction applies to this separate variant; production source and other figure sets are unchanged.
