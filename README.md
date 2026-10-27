@@ -4,14 +4,12 @@ A picture gallery of the GALE-CAST website front-end design. It is **not** the w
 
 ## Open the gallery
 
-The former GitHub Pages address is currently unavailable (404). The repository is private, and GitHub reports that the current plan does not support Pages for this repository. Changing the URL alone will not restore hosting.
+**Gallery website: https://tinenen-cs.github.io/gale-cast-design-gallery/**
 
-- [Browse the screenshots on GitHub](https://github.com/Tinenen-cs/gale-cast-design-gallery/tree/main/images) (sign in with an account that has repository access).
-- [Download the complete gallery](https://github.com/Tinenen-cs/gale-cast-design-gallery/archive/refs/heads/main.zip), extract the ZIP, then open `index.html` in your browser. Keep the `images` folder beside it. This is the full interactive gallery, and it works offline.
-- Or clone with `gh repo clone Tinenen-cs/gale-cast-design-gallery` and open the cloned `index.html`.
+- The repository is public and the gallery is hosted with GitHub Pages from the `main` branch. No sign-in is needed.
+- [Browse the screenshot files on GitHub](https://github.com/Tinenen-cs/gale-cast-design-gallery/tree/main/images).
+- To view it offline: [download the complete gallery](https://github.com/Tinenen-cs/gale-cast-design-gallery/archive/refs/heads/main.zip), extract the ZIP, then open `index.html` (keep the `images` folder beside it).
 - [Open the actual GALE-CAST application](https://gale-cast.vercel.app) (the working system, not this screenshot gallery).
-
-The original Pages address is `https://tinenen-cs.github.io/gale-cast-design-gallery/`. It can be used again after Pages hosting is restored. GitHub Pages on the current plan requires a public repository; keeping this repository private requires a compatible GitHub plan or a different hosting arrangement.
 
 Shows the current design (live since October 13, 2026), following the order of the GALE-CAST User Manual: whole pages, first-visit questions, every Home feature, the Gale Alert (High, Moderate, both, many areas, TEST ONLY survey alerts), notification settings, Public Readiness, About, offline and error screens, and the menu and footer. 324 pictures on desktop 1440, laptop 1366, tablet portrait 820 and landscape 1180, phone 390 and small phone 320, in light and dark. Whole pages and close-ups use the real GALE-CAST forecast at capture time; the alert pop-ups, the High and Moderate days and slow loading use sample data.
 
